@@ -1,10 +1,10 @@
-# <Nome do Projeto>
-<Breve descrição do projeto. Ex: Uma aplicação web para gerenciamento de tarefas com autenticação e banco de dados em tempo real.>
+# Financial System
+Uma aplicação web para gerenciamento de despesas e lucros divididos por períodos.
 
 ## 🚀 Tecnologias Utilizadas
 - TypeScript
 - ReactJs
-- TailwindCSS
+- Styled Components
 
 ## 📦 Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
