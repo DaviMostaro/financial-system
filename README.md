@@ -45,8 +45,8 @@ http://localhost:3000
 
 
 ## ✅ Funcionalidades
-- [x] <Funcionalidade 1 – Ex: Adição, edição e exclusão de despesas
-- [x] <Funcionalidade 2 – Cálculo do lucro/prejuízo de cada período
+- [x] Funcionalidade 1 – Ex: Adição, edição e exclusão de despesas
+- [x] Funcionalidade 2 – Cálculo do lucro/prejuízo de cada período
 
 
 ## 👨‍💻 Autor
